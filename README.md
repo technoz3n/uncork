@@ -1,15 +1,19 @@
 # uncork
-- turn any .exe file into a application on linux with a few clicks!
-***
-a lightweight gtk4 utility to instantly integrate standalone windows executables (`.exe`) into your linux desktop environment with automated icon extraction
+
+**turn windows executables into Linux applications with just a few clicks.**
+
+a lightweight gtk4 utility that integrates standalone windows executables (`.exe`) into your linux desktop environment.
 
 ## dependencies
 - `python-gobject`
 - `gtk4`
-- `icoutils` (for `wrestool` and `icotool`)
-- arch linux (preferably)
+- `icoutils`
+- **recommended platform:** arch linux
 
-## running
-- download the python script
-- `chmod +x wine-app-builder`
-- `./wine-app-builder`
+## getting started
+
+1. `git clone https://technoz3n/uncork.git`
+2. `chmod +x wine-app-builder`
+3. `./uncork`
+
+<sub>a simpler way to bring windows applications to linux</sub>
