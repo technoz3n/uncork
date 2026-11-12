@@ -12,7 +12,7 @@ a lightweight gtk4 utility that integrates standalone windows executables (`.exe
 
 ## getting started
 
-1. `git clone https://technoz3n/uncork.git`
+1. `git clone https://github.com/technoz3n/uncork.git`
 2. `chmod +x wine-app-builder`
 3. `./uncork`
 
